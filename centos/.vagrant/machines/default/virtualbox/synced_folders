@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/stefa/Documents/gitRepos/PWM","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/stefa/Documents/gitRepos/vagrant/centos","disabled":false,"__vagrantfile":true}}}
